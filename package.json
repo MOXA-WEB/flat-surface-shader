@@ -1,0 +1,9 @@
+{
+  "name": "fss",
+  "version": "1.0.0",
+  "main": "./deploy/fss.js",
+  "keywords": [
+    "fss"
+  ],
+  "license": "MIT"
+}
